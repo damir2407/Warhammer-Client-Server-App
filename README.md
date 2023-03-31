@@ -1,4 +1,4 @@
-# Warhammer-Client-Server-App
+# Лабораторная работа за 1 курс по предмету "Программирование"
 ### 1 part:
 
 ![image](https://user-images.githubusercontent.com/70958074/227380259-620a5328-c5a4-43eb-ab78-42060e308446.png)
